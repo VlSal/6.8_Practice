@@ -1,0 +1,16 @@
+*{box-sizing: border-box;}
+
+body {
+    background-color: rgb(248, 255, 205);
+}
+code {margin: 10px 450px 100px 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#consoleLog, #al, #pr {
+    border: 1.5px solid black;
+    margin: 30px 1150px 30px 20px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(138, 140, 126);
+
+}
